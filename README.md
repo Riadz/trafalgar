@@ -1,6 +1,6 @@
 # trafalgar
 
-This is the implementation of a design by Aryo Pamungkas (https://dribbble.com/shots/10058339-FIGMA-FREEBIES-Data-warehouse-homepage)
+This is the implementation of a design by Aryo Pamungkas (https://dribbble.com/shots/12514026--FIGMA-FREEBIE-Landing-page-for-a-healthcare-startup)
 
 I made this design into a fully responsive website using bootstrap and sass
 
